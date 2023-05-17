@@ -129,6 +129,7 @@ DEPENDS += aptitude, \
 	   bpftrace, \
 	   bpftrace-dbgsym, \
 	   crash-python, \
+	   delphix-go, \
 	   delphix-rust, \
 	   dnsutils, \
 	   drgn, \
